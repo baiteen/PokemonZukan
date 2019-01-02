@@ -1,2 +1,2 @@
-Androidアプリ「画面のQRリーダー」のページ
-https://baiteen.github.io/ScreenQrReader/
+Googleアシスタントアプリ「ポケモン図鑑」のページ
+https://baiteen.github.io/PokemonZukan/
